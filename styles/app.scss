@@ -1,6 +1,7 @@
 // RESET
 // Smooths out the rough edges across browsers
 @use './tools/normalize';
+@use 'node_modules/leaflet/dist/leaflet';
 
 // VARIABLES
 // Reusable settings
